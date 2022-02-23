@@ -271,7 +271,7 @@ $('.hero-active').slick({
 	dots: false,
 	infinite: true,
 	speed: 1000,
-	autoplay: false,
+	autoplay: true,
 	centerMode: true,
 	centerPadding: '0',
 	arrows: false,

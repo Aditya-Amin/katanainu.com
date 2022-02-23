@@ -2324,3 +2324,22 @@ label {
 .timeline-wrap{
     z-index: 1;
 }
+
+
+
+/* Hero Section */
+.hero-active::after {
+    background-size: cover;
+    width: 450px;
+    height: 450px;
+}
+
+.hero-active::before {
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+}
+
+.hero-item {
+    transform: scale(.6);
+}
