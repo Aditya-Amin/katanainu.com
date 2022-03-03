@@ -46,9 +46,9 @@ Milestones that will put us on a Track to Success.</p>
                         <li><i className="fas fa-check-circle" style={{ marginRight:'20px'}}></i> Game-Development</li>
                         <li> <i className="fas fa-check-circle" style={{ marginRight:'20px'}}></i>Game Trailer</li>
                         <li>E-Commerce Launch</li>
-                    
+
                         <li>Several Updates</li>
-                   
+
                         <li>2D NFT collections</li>
                         <li><i className="fas fa-check-circle" style={{ marginRight:'20px'}}></i>Charity Action</li>
                         <li>Game Blog Website</li>
@@ -63,7 +63,8 @@ Milestones that will put us on a Track to Success.</p>
                         <h3 className="title">Phase 3</h3>
                         <ul className="list">
                         <li> More partnership Cooperation’s</li>
-                        <li><i className="fas fa-check-circle" style={{ marginRight:'20px'}}></i>Charity Action</li>
+                        {/* <li><i className="fas fa-check-circle" style={{ marginRight:'20px'}}></i>Charity Action</li> */}
+                        <li>Charity Action</li>
                         <li>Katana Inu App launch</li>
                         <li> Expand Marketing Strategy</li>
                         <li>Create more 3D Game NFT’s</li>
